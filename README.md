@@ -17,4 +17,4 @@ pip install termcolor
 pip install pyfiglet
 git clone https://github.com/SURY0X/UnionHelper.git
 cd UnionHelper
-python unionhelper.py
+python main.py
